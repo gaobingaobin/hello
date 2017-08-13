@@ -3,5 +3,5 @@ import {
     AppRegistry,
 } from 'react-native';
 
-import hello from './js/page/NavigatorTest'
+import hello from './js/page/setup'
 AppRegistry.registerComponent('hello', () => hello);
